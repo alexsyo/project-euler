@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Project_Euler
 {
-    /**
-    * 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
-    * What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
-    */
+    /// <summary>
+    /// 
+    /// 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+    /// What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+    /// 
+    /// </summary>
     public class Problem5 : Problem
     {
         public override double Solve(double variable)

@@ -9,6 +9,11 @@ namespace Project_Euler
 {
     public class ProblemFactory
     {
+        /// <summary>
+        /// Instantiate the {index} problem and print the solution on the console using the given variable
+        /// </summary>
+        /// <param name="index"></param>
+        /// <param name="var"></param>
         public static void Print(int index, double var)
         {
             string className = "Project_Euler.Problem" + index;
