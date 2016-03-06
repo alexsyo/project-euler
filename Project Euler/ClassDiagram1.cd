@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project_Euler.Problem" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Euler.Problem1" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Euler.Problem2" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Euler.Problem3" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Euler.Problem4" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAIAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Euler.Problem5" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAIAAAAEAAAAABAAAAAAIA=</HashCode>
+      <FileName>Problem5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Euler.Problem6" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Euler.Problem7" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Euler.ProblemFactory" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ProblemFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Euler.Program" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
